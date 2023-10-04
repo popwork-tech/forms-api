@@ -20,5 +20,6 @@ Mise en place d’une API pour la gestion de questionnaires type Typeform. Cette
 - Le code doit être exécutable et fonctionnel sur ma local
 - Au moins un exemple de test unitaire et/ou E2E
 - Si possible, fonctionnel sous Docker
+- A partir du moment où ces critères sont respectés, le choix des librairies/frameworks est entièrement libre
 
-Si besoin de plus de précisions, ne pas hésiter à me contacter
+Si besoin de plus d'informations, ne pas hésiter à me contacter
