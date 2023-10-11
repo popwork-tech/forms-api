@@ -9,7 +9,7 @@ Mise en place d’une API pour la gestion de questionnaires type Typeform. Cette
 - la création d’un questionnaire avec plusieurs questions.
 - la récupération du questionnaire avec ces questions
 - la réponse aux questions du questionnaire par un utilisateur
-- la récupération des réponses aux questions par questionnaire
+- la récupération des réponses aux questions par utilisateur pour ce questionnaire
 
 ### Infos techniques :
 
